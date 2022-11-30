@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    config:
+      uri: http://localhost:8000
+      name: Gateway Location
+
+config:
+  message: Welcome to config server 
